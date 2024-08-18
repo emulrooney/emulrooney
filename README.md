@@ -11,5 +11,4 @@ Finally, my [portfolio](https://emulrooney.github.io) is up-to-date and has more
 **Tech I've used and other skills**
 * **Languages**: C#; HTML & CSS; Java; JavaScript; PHP; Python; SQL
 * **Frameworks**: .NET Core; Symfony; Vue
-* **Technologies**: AWS; Azure; Bootstrap; Git; Godot; jQuery; Jekyll; Node.js; SASS/SCSS; Selenium; Unity; Wordpress
-* **Misc**: Agile; French (working proficiency); Technical Writing; Unit Testing
+* **Technologies**: AWS; Bootstrap; Git; Godot; jQuery; Jekyll; Node.js; SASS; Wordpress
