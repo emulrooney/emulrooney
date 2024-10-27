@@ -9,6 +9,6 @@
 Finally, my [portfolio](https://emulrooney.github.io) is up-to-date and has more comprehensive information including education and work history. Freshly re-done in Jekyll.
 
 **Tech I've used and other skills**
-* **Languages**: C#; HTML & CSS; Java; JavaScript; PHP; Python; SQL
-* **Frameworks**: .NET Core; Symfony; Vue
-* **Technologies**: AWS; Bootstrap; Git; Godot; jQuery; Jekyll; Node.js; SASS; Wordpress
+* **Languages**: C#; Java; JavaScript; PHP; Python; SQL
+* **Frameworks**: .NET Core; React; Symfony; Vue
+* **Technologies**: AWS; Bootstrap; Git; Godot; jQuery; Jekyll; Node.js; PHPUnit; SASS; Wordpress
