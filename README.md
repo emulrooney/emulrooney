@@ -6,7 +6,7 @@
 * 🎮 I do a bit of game dev on the side. My team won **Best Overall Game** at Mohawk's first ever game jam for [Pangolin Dinner](https://github.com/emulrooney/PangolinGameJam), but I'm most proud of [Orbital4](https://github.com/emulrooney/Orbital4) which is a Java implementation of Connect4 in four directions. I also tried to replicate the control scheme of real-time with pause RPGs like Baldur's Gate in Godot, which you can see in video format in the [Godot-RTWP repo](https://github.com/emulrooney/godot-RTWP). Finally, I entered [Beelancer](https://github.com/emulrooney/beelancer) into Github's [Gameoff 2021](https://itch.io/jam/game-off-2021).
 * 🐲 I built a Dungeons & Dragons aid to show character abilities and notes in a nice masonry-style grid. it's called [Dungeonwall](https://github.com/emulrooney/dungeonwall). It's probably done for now - shelved while my current campaign is on hold. 
 
-Finally, my [portfolio](https://emulrooney.dev) is up-to-date and has more comprehensive information including education and work history. Freshly re-done in Next.js.
+Finally, my [portfolio](https://evanmulrooney.dev) is up-to-date and has more comprehensive information including education and work history. Freshly re-done in Next.js.
 
 **Tech I've used and other skills**
 * **Languages**: C#; JavaScript; PHP; Python; SQL
