@@ -9,7 +9,7 @@
 Finally, my [portfolio](https://evanmulrooney.dev) is up-to-date and has more comprehensive information including education and work history. Freshly re-done in Next.js.
 
 **Tech I've used and other skills**
-* **Languages**: C#; JavaScript; PHP; Python; SQL
+* **Languages**: C#; JavaScript; PHP; Python; SQL; TypeScript
 * **Frameworks**: .NET Core; React; Next.js; Symfony; Vue
 * **Databases**: MySQL; PostgreSQL; Microsoft SQL Server; Sqlite
 * **Technologies**: AWS; Bootstrap; Git; Godot; jQuery; Node.js; PHPUnit
