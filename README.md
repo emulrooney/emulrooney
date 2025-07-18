@@ -7,8 +7,8 @@
 
 Finally, my [portfolio](https://evanmulrooney.dev) is up-to-date and has more comprehensive information including education and work history. Freshly re-done in Next.js with Pico CSS.
 
-**Tech I've used and other skills**
-* **Languages**: C#; JavaScript; PHP; Python; SQL; TypeScript
-* **Frameworks**: .NET Core; Pyramid; React; Next.js; Symfony; Vue
-* **Databases**: MySQL; PostgreSQL; Microsoft SQL Server; Sqlite
-* **Technologies**: AWS; Bootstrap; Express; Git; Godot; jQuery; Node.js; PHPUnit
+**Tech I've used**
+* **Languages**: C#, JavaScript, PHP, Python, SQL, TypeScript
+* **Frameworks**: .NET Core, FastAPI, Pyramid, React, Next.js, Symfony, Vue
+* **Databases**: MySQL, PostgreSQL, Microsoft SQL Server, Sqlite
+* **Other technology**: AWS, Express, Git, Godot, jQuery, Node.js, PHPUnit, Tailwind
