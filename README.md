@@ -11,4 +11,5 @@ Finally, my [portfolio](https://evanmulrooney.dev) is up-to-date and has more co
 * **Languages**: C#, JavaScript, PHP, Python, SQL, TypeScript
 * **Frameworks**: .NET Core, FastAPI, Pyramid, React, Next.js, Symfony, Vue
 * **Databases**: MySQL, PostgreSQL, Microsoft SQL Server, Sqlite
-* **Other technology**: AWS, Express, Git, Godot, jQuery, Node.js, PHPUnit, Tailwind
+* **Infrastructure**: AWS, Docker, K3s
+* **Other technology**: Express, Git, Godot, Node.js, Tailwind
