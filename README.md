@@ -1,3 +1,7 @@
+## Note
+
+I'm largely moving to Gitlab because this site is down all the time. You can follow me there: https://gitlab.com/emulrooney
+
 ### Good morning to everyone but especially those who found my github
 
 **Interesting projects**
